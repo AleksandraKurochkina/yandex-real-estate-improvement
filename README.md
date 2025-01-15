@@ -13,3 +13,8 @@ experiment_name: yandex_realty_aleksandra
 run_id: b131c3f5a7f34ea89e8873c967465d08
 model_name: base_model_aleksandra
 vesrion_model: 1
+
+Этап 2:
+Notebook с исследованиями: EDA.ipynb
+Папка с графиками: assets
+run_id логирования: 4d9a87e125a14e798712d9df4429239f
