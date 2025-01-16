@@ -30,6 +30,16 @@ version_model: 5
 Notebook с  feature selection модели: model_improvement/model_improvement.ipynb
 График улучшения метрик: assets/metrics_improvement_selection.png
 run_id логирования: dc8df06f398d4429aae77fa49a80f5b0
-model_name: selection_model_aleksandra'
+model_name: selection_model_aleksandra
+version_model: 1
+
+Этап 5:
+NOtebook с подбором гиперпараметров: model_improvement/model_improvement.ipynb
+График улучшения метрик: assets/metrics_improvement_common_plot.png
+run_id логирования модели с методом optuna: 7701b6d6540f420ba422a8e9b466d35f
+model_name: optuna_model
+version_model: 1
+run_id логирования модели с методом Random search:        388c267b6fab4250bd269dab7ab515fc
+model_name: random_search_model_project
 version_model: 1
 
