@@ -20,8 +20,16 @@ Notebook с исследованиями: EDA.ipynb
 run_id логирования: 4d9a87e125a14e798712d9df4429239f
 
 Этап 3:
-Notebook с улучшением модели: model_improvement/feature_extracting.ipynb
-График улучшения метрик: assets/metrics_improvement.png
-run_id логирования: e87400ce4ceb4c0ea103efb6bb4c69fe
+Notebook с улучшением модели: model_improvement/model_improvement.ipynb
+График улучшения метрик: assets/metrics_improvement_extracting.png
+run_id логирования: 4158aafbea7b470bb6e5c5ac3ba8427a
 model_name: better_model_aleksandra
+version_model: 5
+
+Этап 4:
+Notebook с  feature selection модели: model_improvement/model_improvement.ipynb
+График улучшения метрик: assets/metrics_improvement_selection.png
+run_id логирования: dc8df06f398d4429aae77fa49a80f5b0
+model_name: selection_model_aleksandra'
 version_model: 1
+
