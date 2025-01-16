@@ -18,3 +18,10 @@ vesrion_model: 1
 Notebook с исследованиями: EDA.ipynb
 Папка с графиками: assets
 run_id логирования: 4d9a87e125a14e798712d9df4429239f
+
+Этап 3:
+Notebook с улучшением модели: model_improvement/feature_extracting.ipynb
+График улучшения метрик: assets/metrics_improvement.png
+run_id логирования: e87400ce4ceb4c0ea103efb6bb4c69fe
+model_name: better_model_aleksandra
+version_model: 1
